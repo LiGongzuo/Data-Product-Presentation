@@ -56,6 +56,6 @@ Server download the data from yahoo, and plot the CandleStick charts.
 Stock CandleStick charts example: 
 ========================================================
 
-The code run in this slide the same as the app, and get this CandleStick charts:
+The code run in this slide is the same as the app, and get this CandleStick charts:
 
 ![plot of chunk unnamed-chunk-3](index-figure/unnamed-chunk-3-1.png) 
